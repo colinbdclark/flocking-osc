@@ -1,0 +1,36 @@
+{
+    "name": "flocking-osc",
+    "description": "Open Sound Control support for Flocking",
+    "version": "0.1.0",
+    "author": "Colin Clark",
+    "bugs": "http://github.com/colinbdclark/flocking-osc/issues",
+    "homepage": "http://flockingjs.org",
+    "dependencies": {
+        "infusion": "git://github.com/fluid-project/infusion.git",
+        "serialport": "1.2.x",
+        "osc-min": "0.0.12"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        },
+        {
+            "type": "GPL",
+            "url": "http://opensource.org/licenses/GPL-3.0"
+        }
+    ],
+    "keywords": [
+        "sound", 
+        "audio", 
+        "music", 
+        "synthesis",
+        "osc",
+        "open sound control"
+    ],
+    "repository": "git://github.com/colinbdclark/flocking-osc.git",
+    "main": "index.js",
+    "engines": {
+        "node" : "0.10.x"
+    }
+}
