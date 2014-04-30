@@ -8,7 +8,7 @@
     "dependencies": {
         "infusion": "git://github.com/fluid-project/infusion.git",
         "serialport": "1.2.x",
-        "osc-min": "0.0.12"
+        "osc": "git://github.com/colinbdclark/osc.js.git"
     },
     "licenses": [
         {
@@ -21,9 +21,9 @@
         }
     ],
     "keywords": [
-        "sound", 
-        "audio", 
-        "music", 
+        "sound",
+        "audio",
+        "music",
         "synthesis",
         "osc",
         "open sound control"
