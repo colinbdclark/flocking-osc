@@ -7,7 +7,7 @@
     "homepage": "http://flockingjs.org",
     "dependencies": {
         "infusion": "git://github.com/fluid-project/infusion.git",
-        "serialport": "1.2.x",
+        "serialport": "1.4.5",
         "slip": "git://github.com/colinbdclark/slip.js.git",
         "osc": "git://github.com/colinbdclark/osc.js.git"
     },
